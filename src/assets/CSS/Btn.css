@@ -1,0 +1,13 @@
+.btn {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 90%;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 130px;
+    padding: 0.5rem 1.3rem;
+    border: 0;
+}
+
